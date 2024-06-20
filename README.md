@@ -3,3 +3,4 @@ This is the Official repository of the Alternative-ML-Build project which focuse
 
 # UI Design
 - The UI will be a much simpler version of the current builds with the Main Menu having six Icons/Buttons for an easy navigation as shown below.
+![alt text]([http://url/to/img.png](https://github.com/AltCine/Alternative-ML-Build/blob/Main/Images/Main%20Menu.png))
