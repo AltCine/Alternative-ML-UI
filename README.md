@@ -15,3 +15,7 @@ What we found is that a lot of new users get scared away because of the current 
 ![alt text](https://github.com/AltCine/Alternative-ML-Build/blob/Main/Images/Monitoring.png?raw=true)
 
 - As you can see simplicity is the key here. Text and columns are bigger then in current builds for better visibility and no additional confusing text/options. Just important stuff remains: Option Name > Value > Toggle Switches. Easy to understand, nothing that could scare new users away.
+
+# Changes to the Build
+We think that Dannes latest build of Crop Mood is a perfect example towards what we are looking for in terms of the build. All the modules that are needed for a complete shooting experience will be enabled by default and anything else will be removed.
+There is also a lot of stuff that the everyday user will never touch so all these options will be also removed so simplify things. We will make an update with a documentation about what we would like to keep and what can go, what options go where and why.
