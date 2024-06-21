@@ -1,5 +1,5 @@
-# Alternative-ML-Build
-This is the Official repository of the Alternative-ML-Build project which focuses on bringing a new and simple UI to Magic Lantern.
+# Alternative-UI / NEW Magic Lantern UI
+This is the Official repository of the Alternative UI project which focuses on bringing a new and simple UI to Magic Lantern.
 
 # Why?
 What we found is that a lot of new users get scared away because of the current layout of Magic Lantern. Even seasoned ML users wish for a more simple UI. Lets be honest, it looks like a hack with many confusing options and a not so well arranged menu system. We want to change that into something that even a child can understand and something that looks more finished. This is why this project came to be and we feel like with the current shooting options that ML offers this is all it needs to have a Full Experience.
